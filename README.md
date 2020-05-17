@@ -48,6 +48,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
+- [Vagas para QAs](https://github.com/qa-brasil/vagas)
 
 ## Licença
 
