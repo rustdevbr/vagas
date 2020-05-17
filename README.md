@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars3.githubusercontent.com/u/60519084?s=230&v=4" alt="RustDevBr" width="230" />
+  <img src="https://avatars2.githubusercontent.com/u/65493051?s=200&v=4" alt="RustDevBr" width="230" />
 </p>
 
 # Vagas (Somente vagas de Rust)
