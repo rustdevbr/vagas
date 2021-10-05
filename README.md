@@ -32,7 +32,6 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
-- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 - [Vagas para QAs](https://github.com/qa-brasil/vagas)
 
 #### Por tecnologia
@@ -51,6 +50,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 #### Por localidade
 
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas para desenvolvedores em Salvador](https://github.com/devssa/onde-codar-em-salvador)
 - [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
